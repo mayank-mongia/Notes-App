@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Notes-App/static/js/main.ece1b65c.chunk.js",
+    "main.js.map": "/Notes-App/static/js/main.ece1b65c.chunk.js.map",
+    "runtime-main.js": "/Notes-App/static/js/runtime-main.867b76c6.js",
+    "runtime-main.js.map": "/Notes-App/static/js/runtime-main.867b76c6.js.map",
+    "static/js/2.79aacc08.chunk.js": "/Notes-App/static/js/2.79aacc08.chunk.js",
+    "static/js/2.79aacc08.chunk.js.map": "/Notes-App/static/js/2.79aacc08.chunk.js.map",
+    "index.html": "/Notes-App/index.html",
+    "precache-manifest.2081fae2fa8433fa728a396fcfce8590.js": "/Notes-App/precache-manifest.2081fae2fa8433fa728a396fcfce8590.js",
+    "service-worker.js": "/Notes-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.867b76c6.js",
+    "static/js/2.79aacc08.chunk.js",
+    "static/js/main.ece1b65c.chunk.js"
+  ]
+}
